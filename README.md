@@ -10,10 +10,10 @@ Proveer a profesionales de la salud dental las herramientas necesarias para admi
 
 ### Repositorios
 
-[Repositorio Back-end] TODO
+[Repositorio Back-end](https://github.com/mlucas94/OdontoTTIP-backend)
 
-[Repositorio Front-end] TODO
+[Repositorio Front-end](https://github.com/mlucas94/OdontoTTIP-frontend)
 
 ### Otros
 
-TODO
+[Enlaces utiles](https://github.com/mlucas94/OdontoTTIP-documentacion/wiki/Enlaces-Utiles)
